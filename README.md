@@ -1,2 +1,2 @@
 # Estudos-TI
-Repositório para registrar meus estudos em TI
+Iniciando minha jornada em Gestão de TI
